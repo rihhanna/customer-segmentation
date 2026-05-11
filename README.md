@@ -1,9 +1,9 @@
  ```markdown
 # 🎯 Customer Segmentation & RFM Analysis
 
-**Author:** Rehana Hassan Muhumed  
-**Certificate:**  IBM Data Analyst Professional Certificate 
-**Date:** May 2026  
+**Author:**Rehana Hassan Muhumed  
+**Certificate:**IBM Data Analyst Professional Certificate 
+**Date:**May 2026  
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-2.0-green.svg)](https://pandas.pydata.org/)
@@ -15,7 +15,7 @@
 
 ## 🌐 Live Dashboard
 
-**Try it here:** [customer-segmentation-dashboard.onrender.com](https://customer-segmentation-dashboard-qjhp.onrender.com)
+**Try it here:**[customer-segmentation-dashboard.onrender.com](https://customer-segmentation-dashboard-qjhp.onrender.com)
 
 > No installation needed - click and explore!
 
