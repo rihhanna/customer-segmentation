@@ -61,9 +61,7 @@ This project uses **RFM Analysis** (Recency, Frequency, Monetary) to segment cus
 | **Git & GitHub** | Version control |
 
 ---
-
 ## 📁 Project Structure
-
 ```
 customer-segmentation/
 │
@@ -90,8 +88,7 @@ customer-segmentation/
 ├── 📄 render.yaml
 ├── 📄 requirements.txt
 └── 📄 runtime.txt
-
----
+```
 
 ## 🚀 How to Run Locally
 
