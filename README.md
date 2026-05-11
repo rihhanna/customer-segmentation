@@ -67,28 +67,29 @@ This project uses **RFM Analysis** (Recency, Frequency, Monetary) to segment cus
 ```
 customer-segmentation/
 │
+├── 📁 dashboard/
+│   ├── app.py
+│   ├── customer_data.csv
+│   └── requirements.txt
+│
 ├── 📁 data/
-│   └── rfm_data.csv                 # RFM scores and segments
+│   ├── online_retail_II.xlsx
+│   └── rfm_data.csv
 │
 ├── 📁 images/
-│   ├── segment_distribution.png     # Segment pie & bar charts
-│   └── segment_profiles.png         # Profiles by segment
-│
-├── 📁 reports/
-│   └── segmentation_report.txt      # Full analysis report
+│   ├── segment_distribution.png
+│   └── segment_profiles.png
 │
 ├── 📁 notebooks/
-│   └── 01_rfm_analysis.ipynb        # Complete RFM analysis
+│   └── 01_rfm_analysis.ipynb
 │
-├── 📁 dashboard/
-│   ├── app.py                       # Plotly Dash application
-│   ├── customer_data.csv            # Data for dashboard
-│   └── requirements.txt             # Python dependencies
+├── 📁 reports/
+│   └── segmentation_report.txt
 │
-├── 📄 render.yaml                   # Render deployment config
-├── 📄 README.md                     # Project documentation
-└── 📄 requirements.txt              # Main dependencies
-```
+├── 📄 README.md
+├── 📄 render.yaml
+├── 📄 requirements.txt
+└── 📄 runtime.txt
 
 ---
 
