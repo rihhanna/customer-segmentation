@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 🎯 Customer Segmentation & RFM Analysis
 
@@ -66,7 +64,7 @@ This project uses **RFM Analysis** (Recency, Frequency, Monetary) to segment cus
 
 ## 📁 Project Structure
 
-```
+
 customer-segmentation/
 │
 ├── 📁 dashboard/
@@ -93,7 +91,7 @@ customer-segmentation/
 ├── 📄 requirements.txt
 └── 📄 runtime.txt
 ```
-
+```
 ### Prerequisites
 - Python 3.13 or higher
 - Git (optional)
