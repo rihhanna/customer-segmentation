@@ -1,7 +1,3 @@
-Here is your **complete README.md** file for Project 4 – ready to copy and paste:
-
----
-
 ```markdown
 # 🎯 Customer Segmentation & RFM Analysis
 
