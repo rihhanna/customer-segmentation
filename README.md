@@ -1,4 +1,4 @@
-```markdown
+ ```markdown
 # 🎯 Customer Segmentation & RFM Analysis
 
 **Author:** Rehana Hassan Muhumed  
@@ -117,6 +117,9 @@ python app.py
 
 # 6. Open your browser and go to:
 #    http://127.0.0.1:8050
+```
+
+---
 
 ## 📊 Dashboard Features
 
@@ -137,19 +140,19 @@ python app.py
 ## 📈 Key Insights
 
 ### Segment Distribution
-
+```
 VIP:      15% of customers  |  Highest value
 Loyal:    25% of customers  |  Consistent buyers
 At-Risk:  35% of customers  |  Need re-engagement
 New:      25% of customers  |  Need onboarding
-
+```
 
 ### Business Impact
 - **Total Customer Value:** $XXX,XXX
 - **Average Customer Value:** $XXX
 - **Top Segment:** VIP ($$ per customer)
 
-
+---
 
 ## 💡 Business Recommendations
 
@@ -177,7 +180,7 @@ New:      25% of customers  |  Need onboarding
 - ✓ Product tutorials and usage guides
 - ✓ Ask for product reviews after 14 days
 
-
+---
 
 ## 📸 Dashboard Preview
 
@@ -187,10 +190,11 @@ New:      25% of customers  |  Need onboarding
 ### Segment Profiles
 ![Segment Profiles](images/segment_profiles.png)
 
+---
 
 ## 📝 Sample Report Output
 
-
+```
 ========================================
      CUSTOMER SEGMENTATION REPORT
 ========================================
@@ -222,7 +226,9 @@ At-Risk Customers:
 ========================================
 END OF REPORT
 ========================================
+```
 
+---
 
 ## 🚀 Deployment
 
@@ -240,7 +246,9 @@ services:
     rootDir: dashboard
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:server
+```
 
+---
 
 ## 📚 Related Projects
 
@@ -251,7 +259,7 @@ services:
 | **Project 3** | COVID-19 Data Pipeline | [GitHub](https://github.com/rihhanna/covid-data-pipeline) |
 | **Project 4** | Customer Segmentation | [GitHub](https://github.com/rihhanna/customer-segmentation) |
 
-
+---
 
 ## 👩‍💻 Author
 
@@ -264,7 +272,7 @@ services:
 | **GitHub** | [github.com/rihhanna](https://github.com/rihhanna) |
 | **Location** | Somalia |
 
-
+---
 
 ## 🙏 Acknowledgments
 
@@ -272,7 +280,7 @@ services:
 - **Open Source Community** – For Python libraries (pandas, plotly, dash)
 - **Render** – For free hosting
 
-
+---
 
 ## 📅 Project Timeline
 
@@ -286,7 +294,7 @@ services:
 | Deployment | ✅ Complete |
 | Documentation | ✅ Complete |
 
-
+---
 
 ## ⭐ Show Your Support
 
@@ -295,10 +303,10 @@ If you found this project useful:
 - 🔗 Share it with your network
 - 📝 Connect with me on LinkedIn
 
-
+---
 
 **Built with ❤️ by Rehana | 4/4 Portfolio Projects Complete**
 
 *Feel free to reach out for collaboration, feedback, or opportunities!*
 ```
-
+give me the full version single page
