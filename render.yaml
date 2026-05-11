@@ -2,6 +2,8 @@ services:
   - type: web
     name: customer-segmentation-dashboard
     runtime: python
+    repo: https://github.com/rihhanna/customer-segmentation
+    rootDir: dashboard
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:server
     envVars:
