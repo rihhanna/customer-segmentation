@@ -15,7 +15,7 @@
 
 ## 🌐 Live Dashboard
 
-**Try it here:** [customer-segmentation-dashboard.onrender.com](https://customer-segmentation-dashboard.onrender.com)
+**Try it here:** [customer-segmentation-dashboard.onrender.com](https://customer-segmentation-dashboard-qjhp.onrender.com)
 
 > No installation needed - click and explore!
 
