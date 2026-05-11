@@ -14,7 +14,15 @@ server = app.server  # This is required for deployment
 app.layout = html.Div([
     html.H1("🎯 Customer Segmentation Dashboard", style={'textAlign': 'center'}),
     html.H4("RFM Analysis | Customer Segments | Business Insights", style={'textAlign': 'center'}),
+    html.Div([
+        html.Span("👩‍💻 Rehana Hassan Muhumed", style={'fontWeight': 'bold'}),
+        html.Span(" | "),
+        html.Span("📊 IBM Data Analyst Certificate", style={'color': '#4ECDC4'}),
+        html.Span(" | "),
+        html.Span("📅 May 2026"),
+    ], style={'textAlign': 'center', 'fontSize': '14px', 'marginBottom': '10px'}),
     html.Hr(),
+
     
     # Filters
     html.Div([
